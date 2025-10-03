@@ -11,7 +11,7 @@ gcloud compute firewall-rules create flask-port-3 --allow tcp:5002
 http://your_vm_ip:5002/training-api/model
 
 # Extending the Lab Example with Training-API
-
+ignore this comment for lab3 cicd commit changes
 
 sudo docker ps -a
 
